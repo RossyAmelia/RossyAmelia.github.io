@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&family=Patrick+Hand&family=Rubik:wght@500&display=swap');
+/* font-family: 'Balsamiq Sans', cursive; */
+/* font-family: 'Patrick Hand', cursive; */
+/* font-family: 'Rubik', sans-serif; */
+html {
+    background-image: url("Kupu.jpeg");
+    background-size: cover;
+}
+
+
+.header {
+    background-color: #986ecf;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Rubik', sans-serif;
+ }
+
+ .topnav {
+    overflow: hidden;
+    background-color: rgb(153, 0, 255);
+  }
+
+  .topnav a {
+    float: left;
+    display: block;
+    color: #ecbee5;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .topnav a:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0); }
+
+    .center {
+    
+        background-color: rgb(212, 173, 235);
+        background-size: cover;
+        width: 700px;
+        border: 13px solid rgb(196, 151, 223);
+        padding : 100px;
+        padding-top: 80px;
+        margin-left: 10pc;
+        margin-right: 7pc;
+        margin-top: 10px;
+    }
+
+    h2 {
+        font-family: 'Patrick Hand', cursive;
+        font-size: 40px;
+    }
+
+    ul {
+        font-family: 'Balsamiq Sans', cursive;
+        font-size: 30px;
+    }
+
+    ol {
+        font-family: 'Balsamiq Sans', cursive;
+        font-size: 30px;
+    }
+
+    
